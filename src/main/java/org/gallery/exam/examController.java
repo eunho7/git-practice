@@ -9,6 +9,7 @@ public class examController {
     @GetMapping("/")
     public ResponseEntity exam(){
         String str = "안녕하세요.";
+        int a = 3;
         return null;
     }
 }
